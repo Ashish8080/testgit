@@ -1,1 +1,1 @@
-I am Ashish and I like Chess. This is my first commit.
+I like chess and some people call me Ashish. This is my first commit.
